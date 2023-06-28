@@ -1,7 +1,9 @@
+
 *{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+   
 }
 
 .hero{
@@ -101,7 +103,8 @@ span{
 
 .social{
     margin-left: 8%;
-    margin-top: 100px;
+    margin-top: 85px;
+    
 }
 
 .social a{
@@ -113,3 +116,10 @@ span{
 .social a:hover{
     color: orange;
 }
+body, html {
+    margin: 0px;
+    padding: 0px;
+    background-color: #ededed;
+    font-family: 'Trebuchet MS';
+}
+
